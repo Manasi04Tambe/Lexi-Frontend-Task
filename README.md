@@ -38,6 +38,6 @@ const openPdfInNewTab = (link) => {
 
 # Deployment
 - This project is deployed on Vercel for instant previews.
-- Live Demo: lexi-frontend-task-mj0t6u9ll-manasi-tambes-projects.vercel.app
+- Live Demo: https://lexi-frontend-task-mj0t6u9ll-manasi-tambes-projects.vercel.app/
 
 
