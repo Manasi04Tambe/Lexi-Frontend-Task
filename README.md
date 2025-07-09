@@ -32,4 +32,12 @@ const openPdfInNewTab = (link) => {
 
 - This method is used because services like SharePoint or OneDrive block embedding PDFs in iframes using security headers like X-Frame-Options: SAMEORIGIN.
 
+# Demo
+- You can watch a short screen recording at the link below:
+- Demo Video link - https://drive.google.com/file/d/15pVUB6cxbOb9jSU3WF2Nx9sstVzxPHM4/view?usp=sharing
+
+# Deployment
+- This project is deployed on Vercel for instant previews.
+- Live Demo: lexi-frontend-task-mj0t6u9ll-manasi-tambes-projects.vercel.app
+
 
